@@ -1,15 +1,15 @@
-# 👋 Olá! Eu sou o Stiven Fortes
+# 👋 Hi! I'm Stiven Fortes
 
-Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizado contínuo.
+A developer passionate about technology and innovation. Always seeking new challenges and continuous learning.
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 💻 Desenvolvedor Full Stack
-- 🌱 Sempre aprendendo novas tecnologias
-- 🎯 Focado em criar soluções eficientes e escaláveis
-- 🤝 Aberto a colaborações e projetos interessantes
+- 💻 Full Stack Developer
+- 🌱 Always learning new technologies
+- 🎯 Focused on creating efficient and scalable solutions
+- 🤝 Open to collaborations and interesting projects
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,24 +24,17 @@ Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos d
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 ![Stivifortes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stivifortes&show_icons=true&theme=radical)
 
----
-
-## 🔥 Linguagens mais usadas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stivifortes&layout=compact&theme=radical)
 
-
----
-
-## 📢 Últimas atividades
+## 📢 Recent Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stivifortes&theme=radical)
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stivenfortes96/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stivenfortes.cv@gmail.com)
